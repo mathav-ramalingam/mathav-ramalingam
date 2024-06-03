@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mathav Ramalinagm</h1>
+<h1 align="center">Hey, I'm Mathav Ramalinagm 👋</h1>
 <h3 align="center">Engineering Student with a Passion for Cybersecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathav-ramalingam&label=Profile%20views&color=0e75b6&style=flat" alt="mathav-ramalingam" /> </p>

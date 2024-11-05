@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathav-ramalingam&label=Profile%20views&color=0e75b6&style=flat" alt="mathav-ramalingam" /> </p>
 
-- 🌱 I’m currently learning **ReactJS , Django**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **mathavramalingam1608@gmail.com**
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mathav Ramalinagm</h1>
-<h3 align="center">Engineering Student with a Passion for Cybersecurity</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1forwwlnjwaH41CoSzvxgJ0VEuVQrzunb/view?usp=sharing">
+<h3 align="center">A passionate Python Developer</h3>
+<img align="right" alt="Coding" width="400" height="300" src="mathv.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathav-ramalingam&label=Profile%20views&color=0e75b6&style=flat" alt="mathav-ramalingam" /> </p>
 
